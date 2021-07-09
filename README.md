@@ -5,7 +5,7 @@
 Play Easy or Hard its up to you. See if you can get a WIN when the opponent is as good as you specially when the game becomes hard.
 
 ### Link To Demo
-https://nlmiv.github.io/tictactoe/#home
+https://nlmiv.github.io/tictactoe/
 
 ### What I've Learned
 
