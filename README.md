@@ -49,6 +49,6 @@ The app can:
 * **Get inventive with the styling**, e.g. use hover effects for the buttons and small pulse animations
 * Keeps track of **multiple game rounds** with a win counter, win type, game approach of each player etc.
 * Allows player to **customize their token** with color choices.
-- **Customisation**: Add AI capability to allow players to choose icons, as well as colours. Perhaps saving image icon choice in the object, rather than saving just a chosen class style in the object
+* **Customisation**: Add AI capability to allow players to choose icons, as well as colours. Perhaps saving image icon choice in the object, rather than saving just a chosen class style in the object
 * **Use LocalStorage** to persist data locally to allow games to continue after page refresh or loss of internet connectivity
-- **Dynamic Board**: Current program has capability to increase board size due to scalable createBoard function, however win scenarios etc, will not work for games larger than 3
+* **Dynamic Board**: Current program has capability to increase board size due to scalable createBoard function, however win scenarios etc, will not work for games larger than 3
